@@ -1,0 +1,45 @@
+{
+    "games": {
+        "0": {
+            "name": "nasko",
+            "year": "1985",
+            "genre": "nasko",
+            "id": 0,
+            "type": "games"
+        },
+        "1": {
+            "name": "nasko",
+            "year": "1895",
+            "genre": "nasko",
+            "id": 1,
+            "type": "games"
+        },
+        "2": {
+            "name": "nasko",
+            "year": 1895,
+            "genre": "nasko2",
+            "id": 2,
+            "type": "games"
+        },
+        "3": {
+            "name": "nasko",
+            "year": "1895",
+            "genre": "nasko",
+            "id": 3,
+            "type": "games"
+        },
+        "4": {
+            "name": "nasko",
+            "year": "1895",
+            "genre": "nasko"
+        }
+    },
+    "films": {},
+    "books": {
+        "1": {
+            "name": "nasko",
+            "year": "1999",
+            "genre": "nasko"
+        }
+    }
+}
